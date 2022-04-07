@@ -11,5 +11,6 @@
  
  ## 📝 Links
 
-[APP](modern-pokedex.netlify.app)
+[My App](modern-pokedex.netlify.app)
+
 [PokeAPI](https://pokeapi.co/)
