@@ -256,8 +256,30 @@ footer a:hover{
 
 @media (max-width: 650px){
 
-    .addt{
-        display: initial;
+    #addt{
+        display: flex;
+    }
+
+    #search-bar{
+        width: 200px;
+        min-height: 50px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    input{
+        margin-top: 1rem;
+        font-size: 1rem;
+        padding: .3rem .2rem;
+        border-radius: 10px;
+        border: none;
+        transition: .3s;
+    }
+    
+    input:focus{
+        
+        transform: none;
     }
 
     .filter-button{
@@ -369,13 +391,18 @@ footer a:hover{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        min-height: 100px;
+        min-height: 150px;
+        max-height: 200px;
         border-radius: 15px;
         padding: 5px;
         transition: .5s;
         cursor: pointer;
         color: white;
         
+    }
+
+    #clear{
+        font-size: 1rem
     }
 
     .card-title{
