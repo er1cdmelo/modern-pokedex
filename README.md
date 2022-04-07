@@ -11,5 +11,5 @@
  
  ## 📝 Links
 
-[https://modern-pokedex-er1c.netlify.app/](APP)
-[https://pokeapi.co/](PokeAPI)
+[APP](https://modern-pokedex-er1c.netlify.app/)
+[PokeAPI](https://pokeapi.co/)
